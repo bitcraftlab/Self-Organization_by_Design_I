@@ -25,4 +25,9 @@ See it in the repo or on OpenProcessing.
 - Create a continuos CA that stabilizes 
 - Create a continuous CA that goes all crazy
 
+You can visualize your Cellular Automaton using:
+
+- [The ELEVATION Sketch ](exercise/Elevation/) (landscape mesh)
+- [The bitgrid library](http://github.com/bitcraftlab/bitgrid) (hexagonal and triangular meshes)
+
 
