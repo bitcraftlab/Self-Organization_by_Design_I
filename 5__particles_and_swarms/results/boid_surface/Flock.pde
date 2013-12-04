@@ -11,7 +11,6 @@ class Flock {
 
   Flock(PGraphics g, int size, int w, int h) {
     
-
     boids = new ArrayList<Boid>(); // Initialize the ArrayList
       
     for (int i = 0; i < size; i++) {
