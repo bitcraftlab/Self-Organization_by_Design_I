@@ -17,6 +17,10 @@ Blocks are only moved if the move does not result in a collision
 See it in the repo or on OpenProcessing.
 - [Sandglobe](demo/sandbowl) that uses probablistic rules to overcome *isotropy* of the rectangular grid. Grab the region outside the bowl and drag it to see the effect.
 
+###### Continuous Automata
+- [Heat Dissipation](demo/heat_dissipation) is a simple example of diffusion in two dimensions
+
+
 ## Exercise
 
 ###### Continous Cellular Automata
