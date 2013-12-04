@@ -2,7 +2,7 @@
 Self-Organization by Design I
 =============================
 
-This is the Repo of **Self-Organisation by Design (SOBD) [^1] – Part I** [^2]    
+This is the Repo of [Self-Organisation by Design (SOBD)][1] – [Part I][2]    
 It contains processing sketches and exercises for the workshop at Bauhaus-Uni Weimar.
 
 ## Topics
@@ -36,8 +36,8 @@ Processing modes and libraries we will explore
 - Computing Space vs Computing Agents
 
 
-[^1]: [Self-Organization by Design at Uni-Weimar](http://bitcraftlab.com/teaching/selforganisation/)
-[^2]: [SOBD - Part I at Uni-Weimar](http://www.uni-weimar.de/medien/wiki/GMU:Self-Organization_by_Design/Part1)
+[1]: http://bitcraftlab.com/teaching/selforganisation/
+[2]: http://www.uni-weimar.de/medien/wiki/GMU:Self-Organization_by_Design/Part1
 
 
 [lib1]: http://mrfeinberg.com/peasycam/
