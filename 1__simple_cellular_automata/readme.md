@@ -1,4 +1,5 @@
-
+Simple Cellular Automata
+========================
 
 ## Theory
 [Simple Cellular Automata](theory)

@@ -1,4 +1,5 @@
-
+Cellular Automtata and Beyond
+=============================
 
 ## Theory
 [Cellular Automata and Beyond](theory)

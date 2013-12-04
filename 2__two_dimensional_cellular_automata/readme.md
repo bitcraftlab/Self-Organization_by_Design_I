@@ -1,3 +1,5 @@
+Two-Dimensional Cellular Automata
+=================================
 
 ## Theory
 
